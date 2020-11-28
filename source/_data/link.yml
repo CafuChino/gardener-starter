@@ -1,0 +1,8 @@
+- class_name: 友情链接
+  class_desc: 太太地图！！！
+  link_list:
+    - name: Gardener - 园丁面板
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 技术栈拯救世界！！！
+
